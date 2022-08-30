@@ -1,5 +1,8 @@
+import Hero from './components/Hero';
+import './App.css';
+
 function App() {
-	return <div></div>;
+	return <Hero />;
 }
 
 export default App;
